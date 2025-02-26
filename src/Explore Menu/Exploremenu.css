@@ -1,0 +1,37 @@
+h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+#menulist {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    text-align: center;
+
+}
+
+#menulist::-webkit-scrollbar {
+    display: none;
+}
+
+#menu {
+    margin: 10px;
+}
+
+#menu img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+#name {
+    text-align: center;
+    margin-top: 10px;
+}

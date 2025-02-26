@@ -1,0 +1,51 @@
+#footer h1 
+{
+    color: orange;
+}
+#footer
+{
+    color: white;
+}
+#icons
+{
+    border-radius: 2px solid gray;
+    color: white;
+    height: 10px;
+    /* margin-left: 10px; */
+}
+#icons p
+{
+    color: orange;
+    margin-left: 40px;
+}
+#if
+{
+    margin-left: 40px;
+}
+#contact
+{
+    color: white;
+}
+#opening
+{
+    color: white;
+    margin-right: 20px;
+}
+#all
+{
+    display: flex;
+    gap: 150px;
+    background-color: gray;
+    /* text-align: center;
+    justify-content: space-between; */
+}
+#down
+{
+    display: flex;
+    gap: 250px;
+}
+#contact
+{
+    text-align: center;
+    margin-left: 250px;
+}
